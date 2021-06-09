@@ -1,0 +1,10 @@
+{
+ "index": {
+  "type": "file",
+  "path": "./index.js"
+ },
+ "reactTemplate": {
+  "type": "dir",
+  "path": "./test"
+ }
+}
