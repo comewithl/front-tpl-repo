@@ -1,10 +1,10 @@
 {
  "index": {
   "type": "file",
-  "path": "./index.js"
+  "path": "index.js"
  },
  "reactTemplate": {
   "type": "dir",
-  "path": "./test"
+  "path": "test"
  }
 }
